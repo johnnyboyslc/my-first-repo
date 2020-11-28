@@ -1,0 +1,4 @@
+> parseInt('3.1415')
+3
+
+The parseInt method returns 3 because it only returns integers and not floating point/decimal numbers. 
