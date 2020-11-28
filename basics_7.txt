@@ -1,0 +1,2 @@
+No, accessing an array element that is greater than the length does not produce error. It only returns 'undefined'
+

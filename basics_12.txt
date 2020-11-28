@@ -1,0 +1,6 @@
+> '12' < '9'
+true
+> 
+
+
+The operation returns true because Javascript compares the strings and looks at 1 < 9 first and returns true.

@@ -1,0 +1,3 @@
+The statement of console.log('5' + 10) evaluates to 510 because of implicit type coercion. Javascript will coerse other expression (10) into a String. After that, it is concatenated with the other string, resulting in 510. 
+
+ 
